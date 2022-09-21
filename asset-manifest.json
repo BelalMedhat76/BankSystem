@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/BankSystem/static/css/main.918e4b46.css",
+    "main.js": "/BankSystem/static/js/main.c425dce7.js",
+    "static/js/787.5cebbde9.chunk.js": "/BankSystem/static/js/787.5cebbde9.chunk.js",
+    "static/media/card.jpg": "/BankSystem/static/media/card.88dc9d85739dd45402d0.jpg",
+    "static/media/about.jpg": "/BankSystem/static/media/about.3d0bd46c4a0e0871fb30.jpg",
+    "static/media/back.jpeg": "/BankSystem/static/media/back.aebe58ab2d018aad5a05.jpeg",
+    "static/media/back2.jpg": "/BankSystem/static/media/back2.c14b586e58e8888eb346.jpg",
+    "static/media/pricing.jpg": "/BankSystem/static/media/pricing.1316a730909ff8b5984f.jpg",
+    "static/media/cash.jpg": "/BankSystem/static/media/cash.23b0cafcf3461ca1ddf5.jpg",
+    "static/media/withdrow.jpg": "/BankSystem/static/media/withdrow.d89f5cb4b5375ddd5411.jpg",
+    "static/media/kk.jpg": "/BankSystem/static/media/kk.41525a6bd7c3f02841f5.jpg",
+    "static/media/loginBack.jpg": "/BankSystem/static/media/loginBack.62cf8232fd2dd7fb1901.jpg",
+    "static/media/backhome2.jpg": "/BankSystem/static/media/backhome2.c8111eef27ad46c8a667.jpg",
+    "static/media/safety.jpg": "/BankSystem/static/media/safety.ec7f2564028254dcf650.jpg",
+    "static/media/encrypt.jpg": "/BankSystem/static/media/encrypt.7d1cdb053cfa2c594721.jpg",
+    "static/media/compound.gif": "/BankSystem/static/media/compound.ffa2c82e9077fbe93f66.gif",
+    "static/media/bg.png": "/BankSystem/static/media/bg.51a0b546d1956ef26b07.png",
+    "static/media/BankLogo.png": "/BankSystem/static/media/BankLogo.5d28eaf429331c43867c.png",
+    "static/media/get.jpg": "/BankSystem/static/media/get.41b81d15ae278499583c.jpg",
+    "static/media/How.jpg": "/BankSystem/static/media/How.169529a24805061e936e.jpg",
+    "static/media/dd.png": "/BankSystem/static/media/dd.5a679bff8d629f4887a8.png",
+    "static/media/vd.jpg": "/BankSystem/static/media/vd.77a099865e0ee623262a.jpg",
+    "static/media/image.jpg": "/BankSystem/static/media/image.716fd845919eb8dc6b8e.jpg",
+    "static/media/phone.png": "/BankSystem/static/media/phone.69b621fbe638c1928efe.png",
+    "static/media/shape.png": "/BankSystem/static/media/shape.27500d737ebcd86ae1f1.png",
+    "static/media/logo.png": "/BankSystem/static/media/logo.5b4e979c1ce912daedc2.png",
+    "static/media/loc.png": "/BankSystem/static/media/loc.528ab0f41ea97a1be24a.png",
+    "index.html": "/BankSystem/index.html",
+    "main.918e4b46.css.map": "/BankSystem/static/css/main.918e4b46.css.map",
+    "main.c425dce7.js.map": "/BankSystem/static/js/main.c425dce7.js.map",
+    "787.5cebbde9.chunk.js.map": "/BankSystem/static/js/787.5cebbde9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918e4b46.css",
+    "static/js/main.c425dce7.js"
+  ]
+}
